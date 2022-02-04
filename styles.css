@@ -1,0 +1,8 @@
+body {
+  padding: 25px;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+button {
+  border: solid 1px rgb(0, 0, 0);
+}
