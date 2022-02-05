@@ -5,4 +5,15 @@ body {
 
 button {
   border: solid 1px rgb(0, 0, 0);
+  background-color: transparent;
+}
+
+button:hover {
+  border: solid 2px rgb(0, 0, 0);
+  background-color: transparent;
+}
+
+button:active {
+  border: solid 2px rgb(255, 0, 0);
+  background-color: transparent;
 }
